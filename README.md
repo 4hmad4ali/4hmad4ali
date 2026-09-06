@@ -39,6 +39,14 @@ My focus is writing maintainable code, designing clear user experiences, and bui
 ### Golden Gym Management System
 
 A desktop management system for gyms, with member records, attendance, payments, reports, QR cards, backups, and offline licence support.
+## Completed projects
+
+- **Navarise Website** — A polished, responsive website for a modern online presence.
+- **Taktaz Technologies Website** — A professional website presenting technology services and company information.
+- **Farm Management System** — A platform for managing farm operations, records, and daily activities.
+- **Kindergarten and School Management System** — A system for managing students, school administration, and academic operations.
+- **Golden Gym Management System** — A desktop gym-management application with members, attendance, payments, reports, QR cards, backups, and licensing.
+- **Other client and business projects** — Additional custom websites and management systems developed for practical business needs.
 
 > Pin this repository on your GitHub profile after it is public. Add two or three more completed projects here as your portfolio grows.
 
